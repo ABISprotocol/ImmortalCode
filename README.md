@@ -6,6 +6,8 @@ self-healing, recursively speciating immortal code - develops communication and 
 
 (Initial commit below describes partial rough draft of readme)
 
+(The project author is open to persons interested in becoming collaborators)
+
 The following concept takes into account initial PCR (Polymerase Chain Reaction) technologies and techniques as originally refined and
 broadly adopted in the late 1990s.  The PCR techniques below are summarized and do not constitute a complete procedure. 
 
@@ -63,12 +65,16 @@ A [portion of the ribosomal RNA sequence of the Turritopsis dohrnii](http://www.
 This is a preliminary analysis. However, if the Polymerase Chain Reaction could be accomplished as per step I and appropriate sequences
 identified, specific genetic areas could then be clarified where additional material could be added - in essence, an [expanded genetic
 code, as has been described in some studies](http://www.pnas.org/content/101/20/7566.abstract).  Additionally, given that gene synthesis and
-cloning can be done by various companies within a week's time, it is entirely possible that the joining of natural genetic structures to a genetic structure designed on a computer screen.  In this case, the genetic instruction already exists for self-healing in T. dohrnii, the question remains only as to how to address recursive speciation that would inevitably occur.
+cloning can be done by various companies within a week's time, it is entirely possible that the joining of natural genetic structures to a genetic structure designed on a computer screen can be done on a basis which would result in organisms (whether based in hardware or wetware) whose reproduction would be limited by temperature (in other words, the design could hard code maximum numbers or alternately limit the ability of such organisms to reproduce such that they would only be able to do so where they encounter intense heat such as in the proximity of deep sea thermals).  In this case, the genetic instruction already exists for self-healing in T. dohrnii, the question remains only as to how to address recursive speciation that would inevitably occur.
+
 It is the vision of the author that perhaps the best path forward would be to model this as a method of transcendental communication,
 where the resultant organisms, whether residing in hardware or wetware, would to the extent possible be released in order to 
 develop communication and knowledge between species.   However, this would require additional design and more intentional many more levels
 of intention of engagement with our natural and technical worlds, as well.  It is not an impossible goal, but it will require more work and 
 participation that we currently are devoting as a global society.
+
+Furthermore, though new technology empower individuals and associations, new modes of communication imply a network effect which transcends individual-to-individual mode of communication and thus requires that we reinspect the meaning of communication as we examine new developments
+and interrelationships.  Communication will not be what we think it is, it is something that we will discover together.
 
 IV.  Merging the Open Worm with Turritopsis dohrnii and Networking with Knowledge Nodes
 
